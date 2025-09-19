@@ -1518,12 +1518,10 @@ export const updateOrderStatusBySuperUser = async (req, res) => {
 export const getOrderCount = async (req, res) => {
   try {
     const user = req.user;
-
-    //  Check if the logged-in user is an admin
-    if (user.role !== "admin") {
-      return res.status(403).json({ message: "Access denied. Admins only." });
-    }
-
+    // //  Check if the logged-in user is an admin
+    // if (user.role !== "admin") {
+    //   return res.status(403).json({ message: "Access denied. Admins only." });
+    // }
     const [regularOrders, traderOrders] = await Promise.all([
       Order.countDocuments({ parentUser: user._id }),
       TraderOrder.countDocuments({ parentUser: user._id }),
@@ -1539,6 +1537,9 @@ export const getOrderCount = async (req, res) => {
       .json({ message: "Server error while fetching order count." });
   }
 };
+
+
+
 //////////////////////////////////////18/09/2025/////////////////////////////////////////////////////
 export const getAllOrdersByBrandAndProduct = async (req, res) => {
   try {
@@ -1634,16 +1635,137 @@ export const getAllOrdersByBrandAndProduct = async (req, res) => {
 // };
 
 // ✅ Controller for getting product + brand wise order counts + percentages
+// export const getProductBrandOrderStatsWithPercentage = async (req, res) => {
+//   try {
+//     const stats = await Order.aggregate([
+//       {
+//         $group: {
+//           _id: {
+//             product: "$grainName", // Product name
+//             brand: "$brandName",   // Brand name
+//           },
+//           totalOrders: { $sum: 1 }, // Count orders
+//         },
+//       },
+//       {
+//         $project: {
+//           _id: 0,
+//           productName: "$_id.product",
+//           brandName: "$_id.brand",
+//           totalOrders: 1,
+//         },
+//       },
+//       {
+//         $sort: { productName: 1, brandName: 1 },
+//       },
+//     ]);
+
+//     // ✅ Calculate total orders across all product-brand combos
+//     const totalOrders = stats.reduce((acc, curr) => acc + curr.totalOrders, 0);
+
+//     // ✅ Add percentage field to each record
+//     const statsWithPercentage = stats.map((item) => ({
+//       ...item,
+//       percentage: totalOrders === 0 ? 0 : parseFloat(((item.totalOrders / totalOrders) * 100).toFixed(1)),
+//     }));
+
+//     res.status(200).json({
+//       success: true,
+//       totalOrders,
+//       data: statsWithPercentage,
+//     });
+//   } catch (error) {
+//     console.error("Error in getProductBrandOrderStatsWithPercentage:", error);
+//     res.status(500).json({ success: false, message: "Server error" });
+//   }
+// };
+// export const getProductBrandOrderStatsWithPercentage = async (req, res) => {
+//   try {
+//     // Aggregation pipeline (reuse for both collections)
+//     const pipeline = [
+//       {
+//         $group: {
+//           _id: {
+//             product: "$grainName",
+//             brand: "$brandName",
+//           },
+//           totalOrders: { $sum: 1 },
+//         },
+//       },
+//       {
+//         $project: {
+//           _id: 0,
+//           productName: "$_id.product",
+//           brandName: "$_id.brand",
+//           totalOrders: 1,
+//         },
+//       },
+//       {
+//         $sort: { productName: 1, brandName: 1 },
+//       },
+//     ];
+
+//     // Run aggregation on both collections in parallel
+//     const [normalOrdersStats, traderOrdersStats] = await Promise.all([
+//       Order.aggregate(pipeline),
+//       TraderOrder.aggregate(pipeline),
+//     ]);
+
+//     // Merge both results (by product + brand)
+//     const combinedMap = new Map();
+
+//     [...normalOrdersStats, ...traderOrdersStats].forEach((item) => {
+//       const key = `${item.productName}-${item.brandName}`;
+//       if (!combinedMap.has(key)) {
+//         combinedMap.set(key, { ...item });
+//       } else {
+//         combinedMap.get(key).totalOrders += item.totalOrders;
+//       }
+//     });
+
+//     const combinedStats = Array.from(combinedMap.values());
+
+//     // Calculate total orders
+//     const totalOrders = combinedStats.reduce(
+//       (acc, curr) => acc + curr.totalOrders,
+//       0
+//     );
+
+//     // Add percentage
+//     const statsWithPercentage = combinedStats.map((item) => ({
+//       ...item,
+//       percentage:
+//         totalOrders === 0
+//           ? 0
+//           : parseFloat(((item.totalOrders / totalOrders) * 100).toFixed(1)),
+//     }));
+
+//     res.status(200).json({
+//       success: true,
+//       totalOrders,
+//       data: statsWithPercentage,
+//     });
+//   } catch (error) {
+//     console.error("Error in getProductBrandOrderStatsWithPercentage:", error);
+//     res.status(500).json({ success: false, message: "Server error" });
+//   }
+// };
 export const getProductBrandOrderStatsWithPercentage = async (req, res) => {
   try {
-    const stats = await Order.aggregate([
+    const userId = req.user._id; // logged-in user's ID
+
+    // Aggregation pipeline (with filter for logged-in user)
+    const pipeline = [
+      {
+        $match: { parentUser: userId }, // ✅ Only fetch orders for this user
+      },
       {
         $group: {
           _id: {
-            product: "$grainName", // Product name
-            brand: "$brandName",   // Brand name
+            product: "$grainName",
+            brand: "$brandName",
           },
-          totalOrders: { $sum: 1 }, // Count orders
+          totalOrders: { $sum: 1 },
         },
       },
       {
@@ -1657,15 +1779,41 @@ export const getProductBrandOrderStatsWithPercentage = async (req, res) => {
       {
         $sort: { productName: 1, brandName: 1 },
       },
+    ];
+
+    // Run aggregation on both collections
+    const [normalOrdersStats, traderOrdersStats] = await Promise.all([
+      Order.aggregate(pipeline),
+      TraderOrder.aggregate(pipeline),
     ]);
 
-    // ✅ Calculate total orders across all product-brand combos
-    const totalOrders = stats.reduce((acc, curr) => acc + curr.totalOrders, 0);
+    // Merge both results (by product + brand)
+    const combinedMap = new Map();
 
-    // ✅ Add percentage field to each record
-    const statsWithPercentage = stats.map((item) => ({
+    [...normalOrdersStats, ...traderOrdersStats].forEach((item) => {
+      const key = `${item.productName}-${item.brandName}`;
+      if (!combinedMap.has(key)) {
+        combinedMap.set(key, { ...item });
+      } else {
+        combinedMap.get(key).totalOrders += item.totalOrders;
+      }
+    });
+
+    const combinedStats = Array.from(combinedMap.values());
+
+    // Calculate total orders
+    const totalOrders = combinedStats.reduce(
+      (acc, curr) => acc + curr.totalOrders,
+      0
+    );
+
+    // Add percentage
+    const statsWithPercentage = combinedStats.map((item) => ({
       ...item,
-      percentage: totalOrders === 0 ? 0 : parseFloat(((item.totalOrders / totalOrders) * 100).toFixed(1)),
+      percentage:
+        totalOrders === 0
+          ? 0
+          : parseFloat(((item.totalOrders / totalOrders) * 100).toFixed(1)),
     }));
 
     res.status(200).json({
@@ -1678,4 +1826,6 @@ export const getProductBrandOrderStatsWithPercentage = async (req, res) => {
     res.status(500).json({ success: false, message: "Server error" });
   }
 };
+
+
 

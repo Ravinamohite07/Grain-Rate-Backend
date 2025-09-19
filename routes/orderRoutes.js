@@ -57,7 +57,7 @@ router.put("/superuser/orders/:orderId", updateOrderStatusBySuperUser);
 //////////////////////////////////////18/09/2025//////////////////////////////////////////////
 router.get("/by-brand-product",getAllOrdersByBrandAndProduct);
 //router.get("/product-brand-order-stats", getProductBrandOrderStats);
-router.get("/product-brand-order-stats",getProductBrandOrderStatsWithPercentage);
+router.get("/product-brand-order-stats",protect,getProductBrandOrderStatsWithPercentage);
 
 
 export default router;
