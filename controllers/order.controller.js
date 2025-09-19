@@ -1526,7 +1526,6 @@ export const getOrderCount = async (req, res) => {
       Order.countDocuments({ parentUser: user._id }),
       TraderOrder.countDocuments({ parentUser: user._id }),
     ]);
-
     const totalCount = regularOrders + traderOrders;
 
     res.status(200).json({ count: totalCount });
