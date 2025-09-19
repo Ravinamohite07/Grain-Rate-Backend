@@ -1,0 +1,1081 @@
+{
+  "states": [
+    {
+      "state": "Andaman and Nicobar Islands",
+      "districts": [
+        {
+          "district": "Nicobar",
+          "talukas": [
+            "Car Nicobar",
+            "Great Nicobar",
+            "Nancowry"
+          ]
+        },
+        {
+          "district": "North and Middle Andaman",
+          "talukas": [
+            "Diglipur",
+            "Mayabunder",
+            "Rangat"
+          ]
+        },
+        {
+          "district": "South Andaman",
+          "talukas": [
+            "Ferrargunj",
+            "Little Andaman",
+            "Port Blair"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Andhra Pradesh",
+      "districts": [
+        {
+          "district": "Anantapur",
+          "talukas": [
+            "Anantapur", "Atmakur", "B K Samudram", "Beluguppa", "Bommanahal", "Bukkapatnam", "Chilamathur", "D Hirehal", "Dharmavaram", "Gandlapenta", "Garladinne", "Gooty", "Gorantla", "Gudibanda", "Gummagatta", "Guntakal", "Hindupur", "Kadiri", "Kalyandurg", "Kambadur", "Kanaganapalli", "Kanekal", "Kothacheruvu", "Kudair", "Kundurpi", "Lepakshi", "Madakasira", "Mudigubba", "N P Kunta", "Nallacheruvu", "Nallamada", "Narpala", "Obuladevaracheruvu", "Pamidi", "Parigi", "Peddapappur", "Peddavadugur", "Penukonda", "Putlur", "Puttaparthi", "Ramagiri", "Raptadu", "Rayadurg", "Roddam", "Rolla", "Settur", "Singanamala", "Somandepalli", "Tadimarri", "Tadpatri", "Talupula", "Tanakal", "Uravakonda", "Vajrakarur", "Vidapanakal", "Yadiki", "Yellanur"
+          ]
+        },
+        {
+          "district": "Chittoor",
+          "talukas": [
+            "B.Kothakota", "Baireddipalle", "Bangarupalem", "Buchinaidu Kandriga", "Chandragiri", "Chittoor", "Chowdepalle", "G.D. Nellore", "Gangadhara Nellore", "Gangavaram", "Gudipala", "Gudupalle", "Irala", "K.V.B.Puram", "Kalakada", "Kalikiri", "Kambhamvaripalle", "Karvetinagar", "Kuppam", "Kurabalakota", "Madanapalle", "Mulakalacheruvu", "Nagalapuram", "Nagari", "Narayana Vanam", "Nindra", "Nimmanapalle", "Pakala", "Palamaner", "Palasamudram", "Pedda Thippa Samudram", "Peddapanjani", "Peddamandyam", "Penchupadu", "Penumuru", "Pileru", "Pissatur", "Pulicherla", "Punganur", "Puthalapattu", "Puttur", "Ramachandrapuram", "Ramakuppam", "Ramasamudram", "Renigunta", "Rompicherla", "S.R.Puram", "Santhipuram", "Satyavedu", "Sodam", "Somala", "Srikalahasti", "Thamballapalle", "Thavanampalle", "Thottambedu", "Tirupati (Rural)", "Tirupati (Urban)", "Vadamalapeta", "Varadaiahpalem", "Vayalpad", "Vedurukuppam", "Venkatagiri Kota", "Vijayapuram", "Yerpedu", "Yerravaripalem"
+          ]
+        },
+        {
+          "district": "East Godavari",
+          "talukas": [
+            "Addateegala", "Ainavilli", "Alamuru", "Allavaram", "Amalapuram", "Ambajipeta", "Anaparthi", "Atreyapuram", "Biccavolu", "Devipatnam", "Gandepalle", "Gangavaram", "Gokavaram", "Gollaprolu", "I. Polavaram", "Jaggampeta", "Kadiam", "Kajuluru", "Kakinada (Rural)", "Kakinada (Urban)", "Kapileswarapuram", "Karapa", "Katrenikona", "Kirlampudi", "Korukonda", "Kotananduru", "Kothapalle", "Kothapeta", "Malikipuram", "Mamidikuduru", "Mandapeta", "Maredumilli", "Mummidivaram", "P.Gannavaram", "Pamarru", "Pedapudi", "Peddapuram", "Pithapuram", "Prathipadu", "Rajanagaram", "Rajahmundry (Rural)", "Rajahmundry (Urban)", "Rajanagaram", "Ramachandrapuram", "Rampachodavaram", "Rangampeta", "Ravulapalem", "Rayavaram", "Rowthulapudi", "Sakhinetipalle", "Samalkota", "Sankhavaram", "Seethanagaram", "Thallarevu", "Thondangi", "Tuni", "Uppalaguptam", "Y. Ramavaram", "Yeleswaram"
+          ]
+        },
+        {
+          "district": "Guntur",
+          "talukas": [
+            "Amaravathi", "Amruthaluru", "Atchampet", "Bapatla", "Bellamkonda", "Bhattiprolu", "Bollapalle", "Chebrole", "Cherukupalle", "Chilakaluripet", "Dachepalle", "Duggirala", "Durgi", "Edlapadu", "Guntur", "Gurazala", "Ipur", "Kakumanu", "Karempudi", "Karlapalem", "Kollipara", "Kollur", "Krosuru", "Machavaram", "Macherla", "Mangalagiri", "Medikonduru", "Muppalla", "Nadendla", "Nagaram", "Narasaraopet", "Nekarikallu", "Nizampatnam", "Nutakki", "Pedakakani", "Pedakurapadu", "Pedanandipadu", "Phirangipuram", "Piduguralla", "Pittalavanipalem", "Ponnur", "Prathipadu", "Rajupalem", "Rentachintala", "Repalle", "Rompicherla", "Sattenapalle", "Savalyapuram", "Tadepalle", "Tadikonda", "Tenali", "Thullur", "Tsundur", "Vatticherukuru", "Veldurthy", "Vemuru", "Vinukonda", "Vemavaram"
+          ]
+        },
+        {
+          "district": "Krishna",
+          "talukas": [
+            "A.Konduru", "Agiripalle", "Avanigadda", "Bantumilli", "Bapulapadu", "Challapalli", "Chandarlapadu", "Chatrai", "G.Konduru", "Gampalagudem", "Gannavaram", "Ghantasala", "Gudivada", "Gudlavalleru", "Ibrahimpatnam", "Jaggayyapeta", "Kaikalur", "Kalidindi", "Kanchikacherla", "Kankipadu", "Koduru", "Kruthivennu", "Machilipatnam", "Mandavalli", "Milavaram", "Mopidevi", "Movva", "Mudinepalle", "Musunuru", "Mylavaram", "Nagayalanka", "Nandigama", "Nandivada", "Nuzvid", "Pamarru", "Pamidimukkala", "Pedana", "Pedaparupudi", "Penamaluru", "Penuganchiprolu", "Reddigudem", "Thotlavalluru", "Tiruvuru", "Unguturu", "Vatsavai", "Veerullapadu", "Vissannapeta", "Vuyyuru"
+          ]
+        },
+        {
+          "district": "Kurnool",
+          "talukas": [
+            "Adoni", "Allagadda", "Alur", "Aspari", "Atmakur", "Banganapalle", "Banaganapalle", "Bandi Atmakur", "Bethamcherla", "C.Belagal", "Chagalamarri", "Chippagiri", "Devanakonda", "Dhone", "Dornipadu", "Gadigarevula", "Gonegal", "Gospadu", "Gudur", "Halaharvi", "Holagunda", "Jupadu Bungalow", "Kallur", "Kodumur", "Koilkuntla", "Kolimigundla", "Kosigi", "Kothapalle", "Kowthalam", "Krishnagiri", "Kurnool", "Maddikera (East)", "Mahanandi", "Mantralayam", "Midthur", "Nandavaram", "Nandikotkur", "Nandyal", "Orvakal", "Pagidyala", "Pamulapadu", "Panyam", "Pathikonda", "Peapally", "Pedda Kadubur", "Rudravaram", "Sanjamala", "Sirvel", "Srisailam", "Tuggali", "Uyyalawada", "Veldurthi", "Velgode", "Yemmiganur"
+          ]
+        },
+        {
+          "district": "Prakasam",
+          "talukas": [
+            "Addanki", "Ardhaveedu", "Ballikurava", "Bestavaripeta", "Chandra Sekhara Puram", "Chimakurthy", "Chinna Ganjam", "Cumbum", "Darshi", "Donakonda", "Dornala", "Giddaluru", "Gudluru", "Hanumanthunipadu", "Inkollu", "Janakavaram Panguluru", "Kandukur", "Kanigiri", "Karamchedu", "Komarolu", "Konakanamitla", "Kondapi", "Korisa Padu", "Kotha Patnam", "Kurichedu", "Lingasamudram", "Maddipadu", "Markapur", "Marripudi", "Martur", "Mundlamuru", "Naguluppala Padu", "Ongole", "Pamur", "Peda Araveedu", "Peda Cherlo Palle", "Podili", "Ponnaluru", "Pullalacheruvu", "Racherla", "Santhamaguluru", "Santhanuthala Padu", "Singarayakonda", "Tangutur", "Tarlupadu", "Thallur", "Tripuranthakam", "Ulavapadu", "Veligandla", "Vetapalem", "Voletivaripalem", "Yeddanapudi", "Yerragondapalem", "Zarugumilli"
+          ]
+        },
+        {
+          "district": "Srikakulam",
+          "talukas": [
+            "Amadalavalasa", "Bhamini", "Burja", "Etcherla", "Ganguvarisigadam", "Gara", "Haridaspuram", "Hiramandalam", "Ichchapuram", "Jalumuru", "Kanchili", "Kaviti", "Kothuru", "Laveru", "Laxminarsupeta", "Mandasa", "Meliaputti", "Nandigam", "Narasannapeta", "Palakonda", "Palasa", "Pathapatnam", "Polaki", "Ponduru", "Rajam", "Ranastalam", "Regidi Amadalavalasa", "Santhabommali", "Santhakavati", "Saravakota", "Sarubujjili", "Seethampeta", "Sompeta", "Srikakulam", "Tekkali", "Vajrapukothuru", "Vangara", "Veeraghattam"
+          ]
+        },
+        {
+          "district": "Visakhapatnam",
+          "talukas": [
+            "Anakapalle", "Anandapuram", "Ananthagiri", "Araku Valley", "Atchutapuram", "Bheemunipatnam", "Butchayyapeta", "Cheedikada", "Chintapalle", "Chodavaram", "Devarapalle", "Dumbriguda", "G. Madugula", "Gajuwaka", "Golugonda", "Gudem Kotha Veedhi", "Hukumpeta", "K. Kotapadu", "Kasimkota", "Kotauratla", "Koyyuru", "Madugula", "Makavarapalem", "Munagapaka", "Nakkapalle", "Narsipatnam", "Nathavaram", "Paderu", "Padmanabham", "Paravada", "Payakaraopeta", "Peda Bayalu", "Pedagantyada", "Pendurthi", "Ravikamatham", "Rolugunta", "S. Rayavaram", "Sabbi Varam", "Visakhapatnam (Rural)", "Visakhapatnam (Urban)", "Yelamanchili"
+          ]
+        },
+        {
+          "district": "Vizianagaram",
+          "talukas": [
+            "Badangi", "Balijipeta", "Bobbili", "Bondapalle", "Cheepurupalle", "Dattirajeru", "Denkada", "Gajapathinagaram", "Garividi", "Garugubilli", "Gummakota", "Gummalakshmipuram", "Gurla", "Jami", "Jiyyammavalasa", "Komarada", "Kothavalasa", "Kurupam", "Lakkavarapukota", "Makkuva", "Mentada", "Merakamudidam", "Nellimarla", "Pachipenta", "Parvathipuram", "Pusapatirega", "Ramabhadrapuram", "Salur", "Seethanagaram", "Srungavarapukota", "Terlam", "Therlam", "Vepada", "Vizianagaram"
+          ]
+        },
+        {
+          "district": "West Godavari",
+          "talukas": [
+            "Achanta", "Akividu", "Attili", "Bhimadole", "Bhimavaram", "Buttayagudem", "Chagallu", "Chintalapudi", "Denduluru", "Devarapalle", "Dwaraka Tirumala", "Eluru", "Ganapavaram", "Gopalapuram", "Iragavaram", "Jangareddigudem", "Jeelugu Milli", "Kalla", "Kamavarapukota", "Kovvur", "Koyyalagudem", "Lakkireddipalle", "Lingapalem", "Mogalthur", "Nallajerla", "Narasapuram", "Nidadavole", "Nidamarru", "Palacoderu", "Palakollu", "Pedapadu", "Pedavegi", "Pentapadu", "Peravali", "Poduru", "Polavaram", "T.Narasapuram", "Tadepalligudem", "Tanuku", "Thallapudi", "Undi", "Undrajavaram", "Unguturu", "Veeravasaram", "Velairpad", "Yelamanchili"
+          ]
+        },
+        {
+          "district": "Y.S.R. Kadapa",
+          "talukas": [
+            "Atlur", "B.Kodur", "Badvel", "Brahmamgarimattam", "Chakrayapet", "Chapadu", "Chennur", "Chinnamandem", "Chinthakommadinne", "Duvvur", "Galiveedu", "Gopavaram", "Jammalamadugu", "Kadapa", "Kalasapadu", "Kamalapuram", "Khajipet", "Kondapuram", "Lakkireddypalle", "Lingala", "Muddanur", "Mydukur", "Mylavaram", "Nandalur", "Obulavaripalle", "Peddamudium", "Penagalur", "Porumamilla", "Proddatur", "Pulivendla", "Pullampeta", "Rajampet", "Rajupalem", "Ramapuram", "Rayachoti", "S.Mydukur", "Sidhout", "Simhadripuram", "Sambepalli", "Thondur", "Vallur", "Veeraballi", "Veerapunayunipalle", "Vempalle", "Vemula", "Yerraguntla"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "districts": [
+        {"district": "Anjaw", "talukas": []},
+        {"district": "Changlang", "talukas": []},
+        {"district": "Dibang Valley", "talukas": []},
+        {"district": "East Kameng", "talukas": []},
+        {"district": "East Siang", "talukas": []},
+        {"district": "Kamle", "talukas": []},
+        {"district": "Kra Daadi", "talukas": []},
+        {"district": "Kurung Kumey", "talukas": []},
+        {"district": "Lepa Rada", "talukas": []},
+        {"district": "Lohit", "talukas": []},
+        {"district": "Longding", "talukas": []},
+        {"district": "Lower Dibang Valley", "talukas": []},
+        {"district": "Lower Siang", "talukas": []},
+        {"district": "Lower Subansiri", "talukas": []},
+        {"district": "Namsai", "talukas": []},
+        {"district": "Pakke Kessang", "talukas": []},
+        {"district": "Papum Pare", "talukas": []},
+        {"district": "Shi Yomi", "talukas": []},
+        {"district": "Siang", "talukas": []},
+        {"district": "Tawang", "talukas": []},
+        {"district": "Tirap", "talukas": []},
+        {"district": "Upper Siang", "talukas": []},
+        {"district": "Upper Subansiri", "talukas": []},
+        {"district": "West Kameng", "talukas": []},
+        {"district": "West Siang", "talukas": []}
+      ]
+    },
+    {
+      "state": "Assam",
+      "districts": [
+        {"district": "Baksa", "talukas": []},
+        {"district": "Barpeta", "talukas": []},
+        {"district": "Biswanath", "talukas": []},
+        {"district": "Bongaigaon", "talukas": []},
+        {"district": "Cachar", "talukas": []},
+        {"district": "Charaideo", "talukas": []},
+        {"district": "Chirang", "talukas": []},
+        {"district": "Darrang", "talukas": []},
+        {"district": "Dhemaji", "talukas": []},
+        {"district": "Dhubri", "talukas": []},
+        {"district": "Dibrugarh", "talukas": []},
+        {"district": "Dima Hasao", "talukas": []},
+        {"district": "Goalpara", "talukas": []},
+        {"district": "Golaghat", "talukas": []},
+        {"district": "Hailakandi", "talukas": []},
+        {"district": "Hojai", "talukas": []},
+        {"district": "Jorhat", "talukas": []},
+        {"district": "Kamrup", "talukas": []},
+        {"district": "Kamrup Metropolitan", "talukas": []},
+        {"district": "Karbi Anglong", "talukas": []},
+        {"district": "Karimganj", "talukas": []},
+        {"district": "Kokrajhar", "talukas": []},
+        {"district": "Lakhimpur", "talukas": []},
+        {"district": "Majuli", "talukas": []},
+        {"district": "Morigaon", "talukas": []},
+        {"district": "Nagaon", "talukas": []},
+        {"district": "Nalbari", "talukas": []},
+        {"district": "Sivasagar", "talukas": []},
+        {"district": "Sonitpur", "talukas": []},
+        {"district": "South Salmara-Mankachar", "talukas": []},
+        {"district": "Tinsukia", "talukas": []},
+        {"district": "Udalguri", "talukas": []},
+        {"district": "West Karbi Anglong", "talukas": []}
+      ]
+    },
+    {
+      "state": "Bihar",
+      "districts": [
+        {"district": "Araria", "talukas": []},
+        {"district": "Arwal", "talukas": []},
+        {"district": "Aurangabad", "talukas": []},
+        {"district": "Banka", "talukas": []},
+        {"district": "Begusarai", "talukas": []},
+        {"district": "Bhagalpur", "talukas": []},
+        {"district": "Bhojpur", "talukas": []},
+        {"district": "Buxar", "talukas": []},
+        {"district": "Darbhanga", "talukas": []},
+        {"district": "East Champaran (Motihari)", "talukas": []},
+        {"district": "Gaya", "talukas": []},
+        {"district": "Gopalganj", "talukas": []},
+        {"district": "Jamui", "talukas": []},
+        {"district": "Jehanabad", "talukas": []},
+        {"district": "Kaimur (Bhabua)", "talukas": []},
+        {"district": "Katihar", "talukas": []},
+        {"district": "Khagaria", "talukas": []},
+        {"district": "Kishanganj", "talukas": []},
+        {"district": "Lakhisarai", "talukas": []},
+        {"district": "Madhepura", "talukas": []},
+        {"district": "Madhubani", "talukas": []},
+        {"district": "Munger (Monghyr)", "talukas": []},
+        {"district": "Muzaffarpur", "talukas": []},
+        {"district": "Nalanda", "talukas": []},
+        {"district": "Nawada", "talukas": []},
+        {"district": "Patna", "talukas": []},
+        {"district": "Purnia (Purnea)", "talukas": []},
+        {"district": "Rohtas", "talukas": []},
+        {"district": "Saharsa", "talukas": []},
+        {"district": "Samastipur", "talukas": []},
+        {"district": "Saran", "talukas": []},
+        {"district": "Sheikhpura", "talukas": []},
+        {"district": "Sheohar", "talukas": []},
+        {"district": "Sitamarhi", "talukas": []},
+        {"district": "Siwan", "talukas": []},
+        {"district": "Supaul", "talukas": []},
+        {"district": "Vaishali", "talukas": []},
+        {"district": "West Champaran", "talukas": []}
+      ]
+    },
+    {
+      "state": "Chandigarh",
+      "districts": [
+        {
+          "district": "Chandigarh",
+          "talukas": [
+            "Chandigarh"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Chhattisgarh",
+      "districts": [
+        {"district": "Balod", "talukas": []},
+        {"district": "Baloda Bazar", "talukas": []},
+        {"district": "Balrampur", "talukas": []},
+        {"district": "Bastar", "talukas": []},
+        {"district": "Bemetara", "talukas": []},
+        {"district": "Bijapur", "talukas": []},
+        {"district": "Bilaspur", "talukas": []},
+        {"district": "Dantewada (Dakshin Bastar)", "talukas": []},
+        {"district": "Dhamtari", "talukas": []},
+        {"district": "Durg", "talukas": []},
+        {"district": "Gariaband", "talukas": []},
+        {"district": "Janjgir-Champa", "talukas": []},
+        {"district": "Jashpur", "talukas": []},
+        {"district": "Kabirdham (Kawardha)", "talukas": []},
+        {"district": "Kanker (Uttar Bastar)", "talukas": []},
+        {"district": "Kondagaon", "talukas": []},
+        {"district": "Korba", "talukas": []},
+        {"district": "Koriya", "talukas": []},
+        {"district": "Mahasamund", "talukas": []},
+        {"district": "Mungeli", "talukas": []},
+        {"district": "Narayanpur", "talukas": []},
+        {"district": "Raigarh", "talukas": []},
+        {"district": "Raipur", "talukas": []},
+        {"district": "Rajnandgaon", "talukas": []},
+        {"district": "Sukma", "talukas": []},
+        {"district": "Surajpur", "talukas": []},
+        {"district": "Surguja", "talukas": []}
+      ]
+    },
+    {
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "districts": [
+        {
+          "district": "Dadra and Nagar Haveli",
+          "talukas": [
+            "Dadra",
+            "Nagar Haveli"
+          ]
+        },
+        {
+          "district": "Daman",
+          "talukas": [
+            "Daman"
+          ]
+        },
+        {
+          "district": "Diu",
+          "talukas": [
+            "Diu"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Delhi",
+      "districts": [
+        {
+          "district": "Central Delhi",
+          "talukas": ["Civil Lines", "Karol Bagh", "Kotwali"]
+        },
+        {
+          "district": "East Delhi",
+          "talukas": ["Gandhi Nagar", "Mayur Vihar", "Preet Vihar"]
+        },
+        {
+          "district": "New Delhi",
+          "talukas": ["Chanakyapuri", "Connaught Place", "Vasant Vihar"]
+        },
+        {
+          "district": "North Delhi",
+          "talukas": ["Alipur", "Model Town", "Narela"]
+        },
+        {
+          "district": "North East Delhi",
+          "talukas": ["Karawal Nagar", "Seelampur", "Yamuna Vihar"]
+        },
+        {
+          "district": "North West Delhi",
+          "talukas": ["Kanjhawala", "Rohini", "Saraswati Vihar"]
+        },
+        {
+          "district": "Shahdara",
+          "talukas": ["Seemapuri", "Shahdara", "Vivek Vihar"]
+        },
+        {
+          "district": "South Delhi",
+          "talukas": ["Hauz Khas", "Mehrauli", "Saket"]
+        },
+        {
+          "district": "South East Delhi",
+          "talukas": ["Defence Colony", "Kalkaji", "Sarita Vihar"]
+        },
+        {
+          "district": "South West Delhi",
+          "talukas": ["Dwarka", "Kapashera", "Najafgarh"]
+        },
+        {
+          "district": "West Delhi",
+          "talukas": ["Patel Nagar", "Punjabi Bagh", "Rajouri Garden"]
+        }
+      ]
+    },
+    {
+      "state": "Goa",
+      "districts": [
+        {
+          "district": "North Goa",
+          "talukas": [
+            "Bardez", "Bicholim", "Pernem", "Satari", "Tiswadi"
+          ]
+        },
+        {
+          "district": "South Goa",
+          "talukas": [
+            "Canacona", "Dharbandora", "Mormugao", "Quepem", "Salcete", "Sanguem"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Gujarat",
+      "districts": [
+        {"district": "Ahmedabad", "talukas": ["Ahmedabad City", "Bavla", "Daskroi", "Detroj-Rampura", "Dhandhuka", "Dholera", "Dholka", "Mandal", "Sanand", "Viramgam"]},
+        {"district": "Amreli", "talukas": ["Amreli", "Babra", "Bagasara", "Dhari", "Jafrabad", "Khambha", "Kunkavav Vadia", "Lathi", "Lilia", "Rajula", "Savarkundla"]},
+        {"district": "Anand", "talukas": ["Anand", "Anklav", "Borsad", "Khambhat", "Petlad", "Sojitra", "Tarapur", "Umreth"]},
+        {"district": "Aravalli", "talukas": ["Bayad", "Bhiloda", "Dhansura", "Malpur", "Meghraj", "Modasa"]},
+        {"district": "Banaskantha", "talukas": ["Amirgadh", "Bhabhar", "Danta", "Dantiwada", "Deesa", "Deodar", "Dhanera", "Kankrej", "Lakhani", "Palanpur", "Suigam", "Tharad", "Vadgam", "Vav"]},
+        {"district": "Bharuch", "talukas": ["Amod", "Ankleshwar", "Bharuch", "Hansot", "Jambusar", "Jhagadia", "Netrang", "Vagra", "Valia"]},
+        {"district": "Bhavnagar", "talukas": ["Bhavnagar", "Gariadhar", "Ghogha", "Jesar", "Mahuva", "Palitana", "Sihor", "Talaja", "Umrala", "Vallabhipur"]},
+        {"district": "Botad", "talukas": ["Barwala", "Botad", "Gadhada", "Ranpur"]},
+        {"district": "Chhota Udepur", "talukas": ["Bodeli", "Chhota Udepur", "Jetpur Pavi", "Kavant", "Nasvadi", "Sankheda"]},
+        {"district": "Dahod", "talukas": ["Dahod", "Devgadh Baria", "Dhanpur", "Fatepura", "Garbada", "Limkheda", "Sanjeli", "Jhalod"]},
+        {"district": "Dang", "talukas": ["Ahwa", "Subir", "Waghai"]},
+        {"district": "Devbhoomi Dwarka", "talukas": ["Bhanvad", "Kalyanpur", "Khambhalia", "Okhamandal"]},
+        {"district": "Gandhinagar", "talukas": ["Dehgam", "Gandhinagar", "Kalol", "Mansa"]},
+        {"district": "Gir Somnath", "talukas": ["Gir Gadhada", "Kodinar", "Patan-Veraval", "Sutrapada", "Talala", "Una"]},
+        {"district": "Jamnagar", "talukas": ["Dhrol", "Jamjodhpur", "Jamnagar", "Jodiya", "Kalavad", "Lalpur"]},
+        {"district": "Junagadh", "talukas": ["Bhesan", "Junagadh City", "Junagadh Rural", "Keshod", "Malia", "Manavadar", "Mangrol", "Mendarda", "Vanthali", "Visavadar"]},
+        {"district": "Kheda", "talukas": ["Galteshwar", "Kapadvanj", "Kathlal", "Kheda", "Mahudha", "Matar", "Mehmedabad", "Nadiad", "Thasra", "Vaso"]},
+        {"district": "Kutch", "talukas": ["Abdasa", "Anjar", "Bhachau", "Bhuj", "Gandhidham", "Lakhpat", "Mandvi", "Mundra", "Nakhatrana", "Rapar"]},
+        {"district": "Mahisagar", "talukas": ["Balasinor", "Kadana", "Khanpur", "Lunawada", "Santrampur", "Virpur"]},
+        {"district": "Mehsana", "talukas": ["Becharaji", "Jotana", "Kadi", "Kheralu", "Mehsana", "Satlasana", "Unjha", "Vadnagar", "Vijapur", "Visnagar"]},
+        {"district": "Morbi", "talukas": ["Halvad", "Maliya", "Morbi", "Tankara", "Wankaner"]},
+        {"district": "Narmada", "talukas": ["Dediapada", "Garudeshwar", "Nandod", "Sagbara", "Tilakwada"]},
+        {"district": "Navsari", "talukas": ["Chikhli", "Gandevi", "Jalalpore", "Khergam", "Navsari", "Vansda"]},
+        {"district": "Panchmahal", "talukas": ["Ghoghamba", "Godhra", "Halol", "Jambughoda", "Kalol", "Morva Hadaf", "Shehra"]},
+        {"district": "Patan", "talukas": ["Chanasma", "Harij", "Patan", "Radhanpur", "Sami", "Sankheshwar", "Santalpur", "Saraswati", "Sidhpur"]},
+        {"district": "Porbandar", "talukas": ["Kutiyana", "Porbandar", "Ranavav"]},
+        {"district": "Rajkot", "talukas": ["Dhoraji", "Gondal", "Jamkandorna", "Jasdan", "Jetpur", "Kotda Sangani", "Lodhika", "Paddhari", "Rajkot", "Upleta", "Vinchhiya"]},
+        {"district": "Sabarkantha", "talukas": ["Himatnagar", "Idar", "Khedbrahma", "Poshina", "Prantij", "Talod", "Vadali", "Vijaynagar"]},
+        {"district": "Surat", "talukas": ["Bardoli", "Choryasi", "Kamrej", "Mahuva", "Mandvi", "Mangrol", "Olpad", "Palsana", "Umarpada"]},
+        {"district": "Surendranagar", "talukas": ["Chotila", "Chuda", "Dasada", "Dhrangadhra", "Lakhtar", "Limbdi", "Muli", "Sayla", "Thangadh", "Wadhwan"]},
+        {"district": "Tapi", "talukas": ["Kukarmunda", "Nizar", "Songadh", "Uchchhal", "Valod", "Vyara", "Dolvan"]},
+        {"district": "Vadodara", "talukas": ["Dabhoi", "Desar", "Karjan", "Padra", "Savli", "Sinor", "Vadodara", "Vaghodia"]},
+        {"district": "Valsad", "talukas": ["Dharampur", "Kaprada", "Pardi", "Umbergaon", "Valsad", "Vapi"]}
+      ]
+    },
+    {
+      "state": "Haryana",
+      "districts": [
+        {"district": "Ambala", "talukas": ["Ambala", "Barara", "Naraingarh", "Saha"]},
+        {"district": "Bhiwani", "talukas": ["Bawani Khera", "Bhiwani", "Loharu", "Siwani", "Tosham"]},
+        {"district": "Charkhi Dadri", "talukas": ["Badhra", "Charkhi Dadri"]},
+        {"district": "Faridabad", "talukas": ["Ballabgarh", "Faridabad"]},
+        {"district": "Fatehabad", "talukas": ["Fatehabad", "Ratia", "Tohana"]},
+        {"district": "Gurugram", "talukas": ["Farrukhnagar", "Gurugram", "Pataudi", "Sohna"]},
+        {"district": "Hisar", "talukas": ["Adampur", "Hansi", "Hisar", "Narnaund", "Uklana Mandi"]},
+        {"district": "Jhajjar", "talukas": ["Bahadurgarh", "Beri", "Jhajjar", "Matenhail"]},
+        {"district": "Jind", "talukas": ["Jind", "Julana", "Narwana", "Safidon", "Uchana"]},
+        {"district": "Kaithal", "talukas": ["Guhla", "Kaithal", "Kalayat", "Pundri"]},
+        {"district": "Karnal", "talukas": ["Assandh", "Gharaunda", "Indri", "Karnal", "Nilokheri"]},
+        {"district": "Kurukshetra", "talukas": ["Pehowa", "Shahbad", "Thanesar"]},
+        {"district": "Mahendragarh", "talukas": ["Ateli", "Kanina", "Mahendragarh", "Narnaul"]},
+        {"district": "Nuh", "talukas": ["Ferozepur Jhirka", "Nuh", "Punahana", "Taoru"]},
+        {"district": "Palwal", "talukas": ["Hathin", "Hodal", "Palwal"]},
+        {"district": "Panchkula", "talukas": ["Kalka", "Panchkula"]},
+        {"district": "Panipat", "talukas": ["Bapoli", "Israna", "Panipat", "Samalkha"]},
+        {"district": "Rewari", "talukas": ["Bawal", "Kosli", "Rewari"]},
+        {"district": "Rohtak", "talukas": ["Kalanaur", "Meham", "Rohtak", "Sampla"]},
+        {"district": "Sirsa", "talukas": ["Dabwali", "Ellenabad", "Rania", "Sirsa"]},
+        {"district": "Sonipat", "talukas": ["Ganaur", "Gohana", "Kharkhoda", "Sonipat"]},
+        {"district": "Yamunanagar", "talukas": ["Bilaspur", "Chhachhrauli", "Jagadhri", "Radaur"]}
+      ]
+    },
+    {
+      "state": "Himachal Pradesh",
+      "districts": [
+        {"district": "Bilaspur", "talukas": []},
+        {"district": "Chamba", "talukas": []},
+        {"district": "Hamirpur", "talukas": []},
+        {"district": "Kangra", "talukas": []},
+        {"district": "Kinnaur", "talukas": []},
+        {"district": "Kullu", "talukas": []},
+        {"district": "Lahaul and Spiti", "talukas": []},
+        {"district": "Mandi", "talukas": []},
+        {"district": "Shimla", "talukas": []},
+        {"district": "Sirmaur", "talukas": []},
+        {"district": "Solan", "talukas": []},
+        {"district": "Una", "talukas": []}
+      ]
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "districts": [
+        {"district": "Anantnag", "talukas": []},
+        {"district": "Bandipora", "talukas": []},
+        {"district": "Baramulla", "talukas": []},
+        {"district": "Budgam", "talukas": []},
+        {"district": "Doda", "talukas": []},
+        {"district": "Ganderbal", "talukas": []},
+        {"district": "Jammu", "talukas": []},
+        {"district": "Kathua", "talukas": []},
+        {"district": "Kishtwar", "talukas": []},
+        {"district": "Kulgam", "talukas": []},
+        {"district": "Kupwara", "talukas": []},
+        {"district": "Poonch", "talukas": []},
+        {"district": "Pulwama", "talukas": []},
+        {"district": "Rajouri", "talukas": []},
+        {"district": "Ramban", "talukas": []},
+        {"district": "Reasi", "talukas": []},
+        {"district": "Samba", "talukas": []},
+        {"district": "Shopian", "talukas": []},
+        {"district": "Srinagar", "talukas": []},
+        {"district": "Udhampur", "talukas": []}
+      ]
+    },
+    {
+      "state": "Jharkhand",
+      "districts": [
+        {"district": "Bokaro", "talukas": []},
+        {"district": "Chatra", "talukas": []},
+        {"district": "Deoghar", "talukas": []},
+        {"district": "Dhanbad", "talukas": []},
+        {"district": "Dumka", "talukas": []},
+        {"district": "East Singhbhum", "talukas": []},
+        {"district": "Garhwa", "talukas": []},
+        {"district": "Giridih", "talukas": []},
+        {"district": "Godda", "talukas": []},
+        {"district": "Gumla", "talukas": []},
+        {"district": "Hazaribagh", "talukas": []},
+        {"district": "Jamtara", "talukas": []},
+        {"district": "Khunti", "talukas": []},
+        {"district": "Koderma", "talukas": []},
+        {"district": "Latehar", "talukas": []},
+        {"district": "Lohardaga", "talukas": []},
+        {"district": "Pakur", "talukas": []},
+        {"district": "Palamu", "talukas": []},
+        {"district": "Ramgarh", "talukas": []},
+        {"district": "Ranchi", "talukas": []},
+        {"district": "Sahibganj", "talukas": []},
+        {"district": "Seraikela-Kharsawan", "talukas": []},
+        {"district": "Simdega", "talukas": []},
+        {"district": "West Singhbhum", "talukas": []}
+      ]
+    },
+    {
+      "state": "Karnataka",
+      "districts": [
+        {"district": "Bagalkot", "talukas": ["Badami", "Bagalkot", "Bilgi", "Hungund", "Jamkhandi", "Mudhol"]},
+        {"district": "Ballari (Bellary)", "talukas": ["Ballari", "Hadagalli", "Hagaribommanahalli", "Hoovina Hadagalli", "Kampli", "Kudligi", "Sandur", "Siruguppa"]},
+        {"district": "Belagavi (Belgaum)", "talukas": ["Athni", "Bailhongal", "Belagavi", "Chikkodi", "Gokak", "Hukkeri", "Khanapur", "Raibag", "Ramdurg", "Savadatti"]},
+        {"district": "Bengaluru (Bangalore) Rural", "talukas": ["Devanahalli", "Doddaballapura", "Hoskote", "Nelamangala"]},
+        {"district": "Bengaluru (Bangalore) Urban", "talukas": ["Anekal", "Bengaluru East", "Bengaluru North", "Bengaluru South"]},
+        {"district": "Bidar", "talukas": ["Aurad", "Basavakalyan", "Bhalki", "Bidar", "Humnabad"]},
+        {"district": "Chamarajanagar", "talukas": ["Chamarajanagar", "Gundlupet", "Kollegal", "Yelandur"]},
+        {"district": "Chikballapur", "talukas": ["Bagepalli", "Chikballapur", "Chintamani", "Gudibanda", "Gauribidanur", "Sidlaghatta"]},
+        {"district": "Chikkamagaluru (Chikmagalur)", "talukas": ["Chikkamagaluru", "Kadur", "Koppa", "Mudigere", "Narasimharajapura", "Sringeri", "Tarikere"]},
+        {"district": "Chitradurga", "talukas": ["Challakere", "Chitradurga", "Hiriyur", "Holalkere", "Hosadurga", "Molakalmuru"]},
+        {"district": "Dakshina Kannada", "talukas": ["Bantval", "Beltangadi", "Mangaluru", "Puttur", "Sullia"]},
+        {"district": "Davanagere", "talukas": ["Channagiri", "Davanagere", "Harapanahalli", "Harihar", "Honnali", "Jagalur"]},
+        {"district": "Dharwad", "talukas": ["Dharwad", "Hubballi", "Kalghatgi", "Kundgol", "Navalgund"]},
+        {"district": "Gadag", "talukas": ["Gadag", "Mundargi", "Nargund", "Ron", "Shirhatti"]},
+        {"district": "Hassan", "talukas": ["Alur", "Arkalgud", "Arsikere", "Belur", "Channarayapatna", "Hassan", "Holenarsipur", "Sakleshpur"]},
+        {"district": "Haveri", "talukas": ["Byadgi", "Hangal", "Haveri", "Hirekerur", "Ranibennur", "Savanur", "Shiggaon"]},
+        {"district": "Kalaburagi (Gulbarga)", "talukas": ["Afzalpur", "Aland", "Chincholi", "Chitapur", "Kalaburagi", "Jevargi", "Sedam"]},
+        {"district": "Kodagu", "talukas": ["Madikeri", "Somwarpet", "Virajpet"]},
+        {"district": "Kolar", "talukas": ["Bangarapet", "Kolar", "Malur", "Mulbagal", "Srinivaspur"]},
+        {"district": "Koppal", "talukas": ["Gangawati", "Koppal", "Kushtagi", "Yelbarga"]},
+        {"district": "Mandya", "talukas": ["Krishnarajpet", "Maddur", "Malavalli", "Mandya", "Nagamangala", "Pandavapura", "Srirangapatna"]},
+        {"district": "Mysuru (Mysore)", "talukas": ["Heggadadevankote", "Hunsur", "Krishnarajanagara", "Mysuru", "Nanjangud", "Piriyapatna", "Tirumakudalu Narasipura"]},
+        {"district": "Raichur", "talukas": ["Devadurga", "Lingsugur", "Manvi", "Raichur", "Sindhnur"]},
+        {"district": "Ramanagara", "talukas": ["Channapatna", "Kanakapura", "Magadi", "Ramanagara"]},
+        {"district": "Shivamogga (Shimoga)", "talukas": ["Bhadravati", "Hosanagara", "Sagar", "Shivamogga", "Shikaripura", "Sorab", "Thirthahalli"]},
+        {"district": "Tumakuru (Tumkur)", "talukas": ["Chiknayakanhalli", "Gubbi", "Koratagere", "Kunigal", "Madhugiri", "Pavagada", "Sira", "Tiptur", "Tumakuru", "Turuvekere"]},
+        {"district": "Udupi", "talukas": ["Karkala", "Kundapura", "Udupi"]},
+        {"district": "Uttara Kannada", "talukas": ["Ankola", "Bhatkal", "Haliyal", "Honnavar", "Joida", "Karwar", "Kumta", "Mundgod", "Siddapur", "Sirsi", "Yellapur"]},
+        {"district": "Vijayapura (Bijapur)", "talukas": ["Basavana Bagevadi", "Vijayapura", "Indi", "Muddebihal", "Sindagi"]},
+        {"district": "Yadgir", "talukas": ["Shahpur", "Shorapur", "Yadgir"]}
+      ]
+    },
+    {
+      "state": "Kerala",
+      "districts": [
+        {"district": "Alappuzha", "talukas": ["Ambalappuzha", "Chengannur", "Cherthala", "Karthikappally", "Kuttanad", "Mavelikkara"]},
+        {"district": "Ernakulam", "talukas": ["Aluva", "Kanayannur", "Kochi", "Kothamangalam", "Kunnathunad", "Muvattupuzha", "Paravur"]},
+        {"district": "Idukki", "talukas": ["Devikulam", "Idukki", "Peerumade", "Thodupuzha", "Udumbanchola"]},
+        {"district": "Kannur", "talukas": ["Iritty", "Kannur", "Payyanur", "Taliparamba", "Thalassery"]},
+        {"district": "Kasaragod", "talukas": ["Hosdurg", "Kasaragod", "Manjeshwaram", "Vellarikundu"]},
+        {"district": "Kollam", "talukas": ["Karunagappally", "Kollam", "Kottarakkara", "Kunnathur", "Pathanapuram", "Punalur"]},
+        {"district": "Kottayam", "talukas": ["Changanassery", "Kanjirappally", "Kottayam", "Meenachil", "Vaikom"]},
+        {"district": "Kozhikode", "talukas": ["Koyilandy", "Kozhikode", "Thamarassery", "Vatakara"]},
+        {"district": "Malappuram", "talukas": ["Eranad", "Kondotty", "Nilambur", "Perinthalmanna", "Ponnani", "Tirur", "Tirurangadi"]},
+        {"district": "Palakkad", "talukas": ["Alathur", "Chittur", "Mannarkkad", "Ottappalam", "Palakkad", "Pattambi"]},
+        {"district": "Pathanamthitta", "talukas": ["Adoor", "Konni", "Kozhencherry", "Mallappally", "Ranni", "Thiruvalla"]},
+        {"district": "Thiruvananthapuram", "talukas": ["Chirayinkeezhu", "Kattakada", "Nedumangad", "Neyyattinkara", "Thiruvananthapuram", "Varkala"]},
+        {"district": "Thrissur", "talukas": ["Chalakudy", "Chavakkad", "Kodungallur", "Kunnamkulam", "Mukundapuram", "Talappilly", "Thrissur"]},
+        {"district": "Wayanad", "talukas": ["Mananthavady", "Sulthan Bathery", "Vythiri"]}
+      ]
+    },
+    {
+      "state": "Ladakh",
+      "districts": [
+        {
+          "district": "Kargil",
+          "talukas": ["Kargil", "Sanku", "Shakar-Chiktan", "Zanskar"]
+        },
+        {
+          "district": "Leh",
+          "talukas": ["Diskit", "Khaltsi", "Leh", "Nyoma"]
+        }
+      ]
+    },
+    {
+      "state": "Lakshadweep",
+      "districts": [
+        {
+          "district": "Lakshadweep",
+          "talukas": [
+            "Amini", "Andrott", "Kavaratti", "Minicoy"
+          ]
+        }
+      ]
+    },
+    {
+      "state": "Madhya Pradesh",
+      "districts": [
+        {"district": "Agar Malwa", "talukas": []},
+        {"district": "Alirajpur", "talukas": []},
+        {"district": "Anuppur", "talukas": []},
+        {"district": "Ashoknagar", "talukas": []},
+        {"district": "Balaghat", "talukas": []},
+        {"district": "Barwani", "talukas": []},
+        {"district": "Betul", "talukas": []},
+        {"district": "Bhind", "talukas": []},
+        {"district": "Bhopal", "talukas": []},
+        {"district": "Burhanpur", "talukas": []},
+        {"district": "Chhatarpur", "talukas": []},
+        {"district": "Chhindwara", "talukas": []},
+        {"district": "Damoh", "talukas": []},
+        {"district": "Datia", "talukas": []},
+        {"district": "Dewas", "talukas": []},
+        {"district": "Dhar", "talukas": []},
+        {"district": "Dindori", "talukas": []},
+        {"district": "Guna", "talukas": []},
+        {"district": "Gwalior", "talukas": []},
+        {"district": "Harda", "talukas": []},
+        {"district": "Hoshangabad", "talukas": []},
+        {"district": "Indore", "talukas": []},
+        {"district": "Jabalpur", "talukas": []},
+        {"district": "Jhabua", "talukas": []},
+        {"district": "Katni", "talukas": []},
+        {"district": "Khandwa", "talukas": []},
+        {"district": "Khargone", "talukas": []},
+        {"district": "Mandla", "talukas": []},
+        {"district": "Mandsaur", "talukas": []},
+        {"district": "Morena", "talukas": []},
+        {"district": "Narsinghpur", "talukas": []},
+        {"district": "Neemuch", "talukas": []},
+        {"district": "Panna", "talukas": []},
+        {"district": "Raisen", "talukas": []},
+        {"district": "Rajgarh", "talukas": []},
+        {"district": "Ratlam", "talukas": []},
+        {"district": "Rewa", "talukas": []},
+        {"district": "Sagar", "talukas": []},
+        {"district": "Satna", "talukas": []},
+        {"district": "Sehore", "talukas": []},
+        {"district": "Seoni", "talukas": []},
+        {"district": "Shahdol", "talukas": []},
+        {"district": "Shajapur", "talukas": []},
+        {"district": "Sheopur", "talukas": []},
+        {"district": "Shivpuri", "talukas": []},
+        {"district": "Sidhi", "talukas": []},
+        {"district": "Singrauli", "talukas": []},
+        {"district": "Tikamgarh", "talukas": []},
+        {"district": "Ujjain", "talukas": []},
+        {"district": "Umaria", "talukas": []},
+        {"district": "Vidisha", "talukas": []}
+      ]
+    },
+    {
+      "state": "Maharashtra",
+      "districts": [
+        {"district": "Ahmednagar", "talukas": ["Akole", "Jamkhed", "Karjat", "Kopargaon", "Nagar", "Nevasa", "Parner", "Pathardi", "Rahata", "Rahuri", "Sangamner", "Shevgaon", "Shrigonda", "Shrirampur"]},
+        {"district": "Akola", "talukas": ["Akola", "Akot", "Balapur", "Barshitakli", "Murtijapur", "Patur", "Telhara"]},
+        {"district": "Amravati", "talukas": ["Achalpur", "Amravati", "Anjangaon Surji", "Bhatkuli", "Chandur Bazar", "Chandur Railway", "Chikhaldara", "Daryapur", "Dhamangaon Railway", "Dharni", "Morvi", "Nandgaon Khandeshwar", "Teosa", "Warud"]},
+        {"district": "Aurangabad", "talukas": ["Aurangabad", "Phulambri", "Sillod", "Soegaon", "Vaijapur", "Gangapur", "Kannad", "Khuldabad", "Paithan"]},
+        {"district": "Beed", "talukas": ["Ambejogai", "Ashti", "Beed", "Dharur", "Georai", "Kaij", "Majalgaon", "Parli", "Patoda", "Shirur Kasar", "Wadwani"]},
+        {"district": "Bhandara", "talukas": ["Bhandara", "Lakhani", "Lakhandur", "Mohadi", "Pauni", "Sakoli", "Tumsar"]},
+        {"district": "Buldhana", "talukas": ["Buldhana", "Chikhli", "Deulgaon Raja", "Jalgaon Jamod", "Khamgaon", "Lonar", "Malkapur", "Mehkar", "Motala", "Nandura", "Sangrampur", "Shegaon", "Sindkhed Raja"]},
+        {"district": "Chandrapur", "talukas": ["Ballarpur", "Bhadravati", "Brahmapuri", "Chandrapur", "Chimur", "Gondpimpri", "Jiwati", "Korpana", "Mul", "Nagbhir", "Pombhurna", "Rajura", "Saoli", "Sindewahi", "Warora"]},
+        {"district": "Dhule", "talukas": ["Dhule", "Sakri", "Shirpur", "Sindkhede"]},
+        {"district": "Gadchiroli", "talukas": ["Aheri", "Armori", "Bhamragad", "Chamorshi", "Desaiganj (Vadasa)", "Dhanora", "Etapalli", "Gadchiroli", "Korchi", "Kurkheda", "Mulchera", "Sironcha"]},
+        {"district": "Gondia", "talukas": ["Amgaon", "Arjuni Morgaon", "Deori", "Gondia", "Goregaon", "Sadak Arjuni", "Salekasa", "Tirora"]},
+        {"district": "Hingoli", "talukas": ["Aundha Nagnath", "Basmath", "Hingoli", "Kalamnuri", "Sengaon"]},
+        {"district": "Jalgaon", "talukas": ["Amalner", "Bhadgaon", "Bhusawal", "Bodvad", "Chalisgaon", "Chopda", "Dharangaon", "Erandol", "Jalgaon", "Jamner", "Muktainagar", "Pachora", "Parola", "Raver", "Yawal"]},
+        {"district": "Jalna", "talukas": ["Ambad", "Bhokardan", "Ghansawangi", "Jafferabad", "Jalna", "Mantha", "Partur", "Badnapur"]},
+        {"district": "Kolhapur", "talukas": ["Ajra", "Bhudargad", "Chandgad", "Gadhinglaj", "Hatkanangle", "Kagal", "Karvir", "Panhala", "Radhanagari", "Shahuwadi", "Shirol", "Gaganbawada"]},
+        {"district": "Latur", "talukas": ["Ahmedpur", "Ausa", "Chakur", "Deoni", "Jalkot", "Latur", "Nilanga", "Renapur", "Shirur Anantpal", "Udgir"]},
+        {"district": "Mumbai City", "talukas": []},
+        {"district": "Mumbai Suburban", "talukas": ["Andheri", "Borivali", "Kurla"]},
+        {"district": "Nagpur", "talukas": ["Bhiwapur", "Hingna", "Kalameshwar", "Kamptee", "Katol", "Kuhi", "Mauda", "Nagpur (Rural)", "Nagpur (Urban)", "Narkhed", "Parseoni", "Ramtek", "Savner", "Umred"]},
+        {"district": "Nanded", "talukas": ["Ardhapur", "Bhokar", "Biloli", "Deglur", "Dharmabad", "Hadgaon", "Himayatnagar", "Kandhar", "Kinwat", "Loha", "Mahur", "Mudkhed", "Mukhed", "Nanded", "Naigaon", "Umri"]},
+        {"district": "Nandurbar", "talukas": ["Akkalkuwa", "Akrani", "Nandurbar", "Navapur", "Shahada", "Taloda"]},
+        {"district": "Nashik", "talukas": ["Baglan", "Chandwad", "Deola", "Dindori", "Igatpuri", "Kalwan", "Malegaon", "Nandgaon", "Nashik", "Niphad", "Peint", "Sinnar", "Surgana", "Trimbakeshwar", "Yeola"]},
+        {"district": "Osmanabad", "talukas": ["Bhum", "Kalamb", "Lohara", "Omerga", "Osmanabad", "Paranda", "Tuljapur", "Washi"]},
+        {"district": "Palghar", "talukas": ["Dahanu", "Jawhar", "Mokhada", "Palghar", "Talasari", "Vada", "Vasai", "Vikramgad"]},
+        {"district": "Parbhani", "talukas": ["Gangakhed", "Jintur", "Manwath", "Palam", "Parbhani", "Pathri", "Purna", "Selu", "Sonpeth"]},
+        {"district": "Pune", "talukas": ["Ambegaon", "Baramati", "Bhor", "Daund", "Haveli", "Indapur", "Junnar", "Khed", "Maval", "Mulshi", "Pune City", "Purandar", "Shirur", "Velhe"]},
+        {"district": "Raigad", "talukas": ["Alibag", "Karjat", "Khalapur", "Mahad", "Mangaon", "Mhasla", "Murud", "Panvel", "Pen", "Poladpur", "Roha", "Shrivardhan", "Sudhagad", "Tala", "Uran"]},
+        {"district": "Ratnagiri", "talukas": ["Chiplun", "Dapoli", "Guhagar", "Khed", "Lanja", "Mandangad", "Rajapur", "Ratnagiri", "Sangameshwar"]},
+        {"district": "Sangli", "talukas": ["Atpadi", "Jat", "Kadegaon", "Kavathe-Mahankal", "Khanapur", "Miraj", "Palus", "Shirala", "Tasgaon", "Walwa"]},
+        {"district": "Satara", "talukas": ["Jaoli", "Karad", "Khandala", "Khatav", "Koregaon", "Mahabaleshwar", "Man", "Patan", "Phaltan", "Satara", "Wai"]},
+        {"district": "Sindhudurg", "talukas": ["Devgad", "Dodamarg", "Kankavli", "Kudal", "Malwan", "Sawantwadi", "Vaibhavwadi", "Vengurla"]},
+        {"district": "Solapur", "talukas": ["Akkalkot", "Barshi", "Karmala", "Madha", "Malshiras", "Mangalvedhe", "Mohol", "Pandharpur", "Sangole", "Solapur North", "Solapur South"]},
+        {"district": "Thane", "talukas": ["Ambernath", "Bhiwandi", "Kalyan", "Murbad", "Shahapur", "Thane", "Ulhasnagar"]},
+        {"district": "Wardha", "talukas": ["Arvi", "Ashti", "Deoli", "Hinganghat", "Karanja", "Samudrapur", "Seloo", "Wardha"]},
+        {"district": "Washim", "talukas": ["Karanja", "Malegaon", "Mangrulpir", "Manora", "Risod", "Washim"]},
+        {"district": "Yavatmal", "talukas": ["Arni", "Babhulgaon", "Darwha", "Digras", "Ghatanji", "Kalamb", "Kelapur", "Mahagaon", "Maregaon", "Ner", "Pusad", "Ralegaon", "Umarkhed", "Wani", "Yavatmal", "Zari Jamani"]}
+      ]
+    },
+    {
+      "state": "Manipur",
+      "districts": [
+        {"district": "Bishnupur", "talukas": []},
+        {"district": "Chandel", "talukas": []},
+        {"district": "Churachandpur", "talukas": []},
+        {"district": "Imphal East", "talukas": []},
+        {"district": "Imphal West", "talukas": []},
+        {"district": "Jiribam", "talukas": []},
+        {"district": "Kakching", "talukas": []},
+        {"district": "Kamjong", "talukas": []},
+        {"district": "Kangpokpi", "talukas": []},
+        {"district": "Noney", "talukas": []},
+        {"district": "Pherzawl", "talukas": []},
+        {"district": "Senapati", "talukas": []},
+        {"district": "Tamenglong", "talukas": []},
+        {"district": "Tengnoupal", "talukas": []},
+        {"district": "Thoubal", "talukas": []},
+        {"district": "Ukhrul", "talukas": []}
+      ]
+    },
+    {
+      "state": "Meghalaya",
+      "districts": [
+        {"district": "East Garo Hills", "talukas": []},
+        {"district": "East Jaintia Hills", "talukas": []},
+        {"district": "East Khasi Hills", "talukas": []},
+        {"district": "North Garo Hills", "talukas": []},
+        {"district": "Ri Bhoi", "talukas": []},
+        {"district": "South Garo Hills", "talukas": []},
+        {"district": "South West Garo Hills", "talukas": []},
+        {"district": "South West Khasi Hills", "talukas": []},
+        {"district": "West Garo Hills", "talukas": []},
+        {"district": "West Jaintia Hills", "talukas": []},
+        {"district": "West Khasi Hills", "talukas": []}
+      ]
+    },
+    {
+      "state": "Mizoram",
+      "districts": [
+        {"district": "Aizawl", "talukas": []},
+        {"district": "Champhai", "talukas": []},
+        {"district": "Hnahthial", "talukas": []},
+        {"district": "Khawzawl", "talukas": []},
+        {"district": "Kolasib", "talukas": []},
+        {"district": "Lawngtlai", "talukas": []},
+        {"district": "Lunglei", "talukas": []},
+        {"district": "Mamit", "talukas": []},
+        {"district": "Saiha", "talukas": []},
+        {"district": "Saitual", "talukas": []},
+        {"district": "Serchhip", "talukas": []}
+      ]
+    },
+    {
+      "state": "Nagaland",
+      "districts": [
+        {"district": "Dimapur", "talukas": []},
+        {"district": "Kiphire", "talukas": []},
+        {"district": "Kohima", "talukas": []},
+        {"district": "Longleng", "talukas": []},
+        {"district": "Mokokchung", "talukas": []},
+        {"district": "Mon", "talukas": []},
+        {"district": "Peren", "talukas": []},
+        {"district": "Phek", "talukas": []},
+        {"district": "Tuensang", "talukas": []},
+        {"district": "Wokha", "talukas": []},
+        {"district": "Zunheboto", "talukas": []}
+      ]
+    },
+    {
+      "state": "Odisha",
+      "districts": [
+        {"district": "Angul", "talukas": []},
+        {"district": "Balangir", "talukas": []},
+        {"district": "Balasore", "talukas": []},
+        {"district": "Bargarh", "talukas": []},
+        {"district": "Bhadrak", "talukas": []},
+        {"district": "Boudh", "talukas": []},
+        {"district": "Cuttack", "talukas": []},
+        {"district": "Deogarh", "talukas": []},
+        {"district": "Dhenkanal", "talukas": []},
+        {"district": "Gajapati", "talukas": []},
+        {"district": "Ganjam", "talukas": []},
+        {"district": "Jagatsinghpur", "talukas": []},
+        {"district": "Jajpur", "talukas": []},
+        {"district": "Jharsuguda", "talukas": []},
+        {"district": "Kalahandi", "talukas": []},
+        {"district": "Kandhamal", "talukas": []},
+        {"district": "Kendrapara", "talukas": []},
+        {"district": "Kendujhar (Keonjhar)", "talukas": []},
+        {"district": "Khordha", "talukas": []},
+        {"district": "Koraput", "talukas": []},
+        {"district": "Malkangiri", "talukas": []},
+        {"district": "Mayurbhanj", "talukas": []},
+        {"district": "Nabarangpur", "talukas": []},
+        {"district": "Nayagarh", "talukas": []},
+        {"district": "Nuapada", "talukas": []},
+        {"district": "Puri", "talukas": []},
+        {"district": "Rayagada", "talukas": []},
+        {"district": "Sambalpur", "talukas": []},
+        {"district": "Sonepur", "talukas": []},
+        {"district": "Sundargarh", "talukas": []}
+      ]
+    },
+    {
+      "state": "Puducherry",
+      "districts": [
+        {
+          "district": "Karaikal",
+          "talukas": ["Karaikal", "Thirunallar"]
+        },
+        {
+          "district": "Mahe",
+          "talukas": ["Mahe"]
+        },
+        {
+          "district": "Puducherry",
+          "talukas": ["Bahour", "Ozhukarai", "Puducherry", "Villianur"]
+        },
+        {
+          "district": "Yanam",
+          "talukas": ["Yanam"]
+        }
+      ]
+    },
+    {
+      "state": "Punjab",
+      "districts": [
+        {"district": "Amritsar", "talukas": ["Ajnala", "Amritsar-I", "Amritsar-II", "Baba Bakala", "Lopoke"]},
+        {"district": "Barnala", "talukas": ["Barnala", "Tapa"]},
+        {"district": "Bathinda", "talukas": ["Bathinda", "Rampura Phul", "Talwandi Sabo"]},
+        {"district": "Faridkot", "talukas": ["Faridkot", "Kotkapura", "Jaitu"]},
+        {"district": "Fatehgarh Sahib", "talukas": ["Amloh", "Bassi Pathana", "Fatehgarh Sahib", "Khamano"]},
+        {"district": "Fazilka", "talukas": ["Abohar", "Fazilka", "Jalalabad"]},
+        {"district": "Ferozepur", "talukas": ["Ferozepur", "Guruharsahai", "Zira"]},
+        {"district": "Gurdaspur", "talukas": ["Batala", "Dera Baba Nanak", "Gurdaspur"]},
+        {"district": "Hoshiarpur", "talukas": ["Dasuya", "Garhshankar", "Hoshiarpur", "Mukerian"]},
+        {"district": "Jalandhar", "talukas": ["Jalandhar-I", "Jalandhar-II", "Nakodar", "Phillaur", "Shahkot"]},
+        {"district": "Kapurthala", "talukas": ["Bholath", "Kapurthala", "Phagwara", "Sultanpur Lodhi"]},
+        {"district": "Ludhiana", "talukas": ["Jagraon", "Khanna", "Ludhiana (East)", "Ludhiana (West)", "Payal", "Raikot", "Samrala"]},
+        {"district": "Mansa", "talukas": ["Budhlada", "Mansa", "Sardulgarh"]},
+        {"district": "Moga", "talukas": ["Bagha Purana", "Moga", "Nihal Singh Wala"]},
+        {"district": "Muktsar", "talukas": ["Gidderbaha", "Malout", "Muktsar"]},
+        {"district": "Pathankot", "talukas": ["Dhar Kalan", "Pathankot"]},
+        {"district": "Patiala", "talukas": ["Nabha", "Patiala", "Patran", "Rajpura", "Samana"]},
+        {"district": "Rupnagar", "talukas": ["Anandpur Sahib", "Chamkaur Sahib", "Nangal", "Rupnagar"]},
+        {"district": "Sahibzada Ajit Singh Nagar (Mohali)", "talukas": ["Dera Bassi", "Kharar", "S.A.S. Nagar (Mohali)"]},
+        {"district": "Sangrur", "talukas": ["Dhuri", "Lehra", "Malerkotla", "Moonak", "Sangrur", "Sunam"]},
+        {"district": "Shahid Bhagat Singh Nagar", "talukas": ["Balachaur", "Banga", "Nawanshahr"]},
+        {"district": "Tarn Taran", "talukas": ["Khadoor Sahib", "Patti", "Tarn Taran"]}
+      ]
+    },
+    {
+      "state": "Rajasthan",
+      "districts": [
+        {"district": "Ajmer", "talukas": ["Ajmer", "Beawar", "Bhinai", "Kekri", "Kishangarh", "Masuda", "Nasirabad", "Peesangan", "Sarwar", "Tatgarh", "Todgarh", "Vijainagar"]},
+        {"district": "Alwar", "talukas": ["Alwar", "Bansur", "Behror", "Govindgarh", "Kathumar", "Kishangarh Bas", "Kotkasim", "Lachhmangarh", "Mandawar", "Rajgarh", "Ramgarh", "Thanagazi", "Tijara"]},
+        {"district": "Banswara", "talukas": ["Bagidora", "Banswara", "Ghatol", "Garhi", "Kushalgarh"]},
+        {"district": "Baran", "talukas": ["Antah", "Atru", "Baran", "Chhabra", "Chhipabarod", "Kishanganj", "Mangrol", "Shahbad"]},
+        {"district": "Barmer", "talukas": ["Barmer", "Baytoo", "Chohtan", "Gudha Malani", "Pachpadra", "Ramsar", "Sheo", "Siwana"]},
+        {"district": "Bharatpur", "talukas": ["Bayana", "Bharatpur", "Deeg", "Kaman", "Kumher", "Nadbai", "Nagar", "Pahari", "Rupbas", "Weir"]},
+        {"district": "Bhilwara", "talukas": ["Asind", "Banera", "Bhilwara", "Hurda", "Jahazpur", "Kotri", "Mandal", "Mandalgarh", "Raipur", "Sahada", "Shahpura"]},
+        {"district": "Bikaner", "talukas": ["Bikaner", "Dungargarh", "Khajuwala", "Kolayat", "Lunkaransar", "Nokha", "Poogal"]},
+        {"district": "Bundi", "talukas": ["Bundi", "Hindoli", "Indragarh", "Keshavraipatan", "Nainwa"]},
+        {"district": "Chittorgarh", "talukas": ["Begun", "Bhadesar", "Chittorgarh", "Dungla", "Gangrar", "Kapasan", "Nimbahera", "Pratapgarh", "Rashmi", "Rawatbhata", "Udaipurwati"]},
+        {"district": "Churu", "talukas": ["Churu", "Dungargarh", "Rajgarh", "Ratangarh", "Sardarshahar", "Sujangarh", "Taranagar"]},
+        {"district": "Dausa", "talukas": ["Baswa", "Dausa", "Lalsot", "Mahuwa", "Sikrai"]},
+        {"district": "Dholpur", "talukas": ["Bari", "Baseri", "Dholpur", "Rajakhera", "Sarmathura"]},
+        {"district": "Dungarpur", "talukas": ["Aspur", "Dungarpur", "Sagwara", "Simalwara"]},
+        {"district": "Hanumangarh", "talukas": ["Bhadra", "Hanumangarh", "Nohar", "Pilibanga", "Rawatsar", "Sangaria", "Tibbi"]},
+        {"district": "Jaipur", "talukas": ["Amber", "Bassi", "Chaksu", "Chomu", "Jaipur", "Jamwa Ramgarh", "Kotputli", "Phagi", "Phulera", "Sanganer", "Shahpura", "Viratnagar"]},
+        {"district": "Jaisalmer", "talukas": ["Fatehgarh", "Jaisalmer", "Pokaran"]},
+        {"district": "Jalore", "talukas": ["Ahore", "Bhinmal", "Jalore", "Raniwara", "Sanchore"]},
+        {"district": "Jhalawar", "talukas": ["Aklera", "Gangdhar", "Jhalrapatan", "Khanpur", "Manohar Thana", "Pachpahar", "Pirawa"]},
+        {"district": "Jhunjhunu", "talukas": ["Buhana", "Chirawa", "Jhunjhunu", "Khetri", "Malsisar", "Nawalgarh", "Udaipurwati"]},
+        {"district": "Jodhpur", "talukas": ["Balesar", "Bhopalgarh", "Bilara", "Jodhpur", "Luni", "Osian", "Phalodi", "Piparcity", "Shergarh", "Tinwari"]},
+        {"district": "Karauli", "talukas": ["Hindaun", "Karauli", "Mandrail", "Nadoti", "Sapotra", "Todabhim"]},
+        {"district": "Kota", "talukas": ["Digod", "Ladpura", "Pipalda", "Ramganj Mandi", "Sangod"]},
+        {"district": "Nagaur", "talukas": ["Degana", "Didwana", "Jayal", "Kuchaman", "Ladnun", "Makrana", "Merta", "Nagaur", "Nawa", "Parbatsar"]},
+        {"district": "Pali", "talukas": ["Bali", "Desuri", "Jaitaran", "Marwar Junction", "Pali", "Raipur", "Rani", "Rohat", "Sojat", "Sumerpur"]},
+        {"district": "Pratapgarh", "talukas": ["Arnod", "Chhoti Sadri", "Dhariawad", "Peepalkhoont", "Pratapgarh"]},
+        {"district": "Rajsamand", "talukas": ["Amet", "Bhim", "Deogarh", "Kumbhalgarh", "Nathdwara", "Railmagra", "Rajsamand"]},
+        {"district": "Sawai Madhopur", "talukas": ["Bamanwas", "Bonli", "Chauth Ka Barwara", "Gangapur", "Malarna Dungar", "Sawai Madhopur", "Vazirpur"]},
+        {"district": "Sikar", "talukas": ["Danta Ramgarh", "Fatehpur", "Lachhmangarh", "Neem-Ka-Thana", "Sikar", "Sri Madhopur"]},
+        {"district": "Sirohi", "talukas": ["Abu Road", "Pindwara", "Reodar", "Sheoganj", "Sirohi"]},
+        {"district": "Sri Ganganagar", "talukas": ["Anupgarh", "Ganganagar", "Gharsana", "Karanpur", "Padampur", "Raisinghnagar", "Sadulshahar", "Suratgarh", "Vijainagar"]},
+        {"district": "Tonk", "talukas": ["Deoli", "Malpura", "Niwai", "Todaraisingh", "Tonk", "Uniara"]},
+        {"district": "Udaipur", "talukas": ["Dhariyawad", "Girwa", "Gogunda", "Jhadol", "Kherwara", "Kotra", "Lasadiya", "Mavli", "Salumbar", "Sarada", "Udaipur"]}
+      ]
+    },
+    {
+      "state": "Sikkim",
+      "districts": [
+        {"district": "East Sikkim", "talukas": []},
+        {"district": "North Sikkim", "talukas": []},
+        {"district": "South Sikkim", "talukas": []},
+        {"district": "West Sikkim", "talukas": []}
+      ]
+    },
+    {
+      "state": "Tamil Nadu",
+      "districts": [
+        {"district": "Ariyalur", "talukas": ["Andimadam", "Ariyalur", "Sendurai", "Udayarpalayam"]},
+        {"district": "Chengalpattu", "talukas": ["Chengalpattu", "Cheyyur", "Madurantakam", "Pallavaram", "Tambaram", "Thirukalukundram", "Thiruporur", "Vandalur"]},
+        {"district": "Chennai", "talukas": ["Alandur", "Ambattur", "Aminjikarai", "Ayanavaram", "Egmore", "Guindy", "Madhavaram", "Maduravoyal", "Mambalam", "Mylapore", "Perambur", "Purasawalkam", "Sholinganallur", "Thiruvottiyur", "Tondiarpet", "Velachery"]},
+        {"district": "Coimbatore", "talukas": ["Anaimalai", "Annur", "Coimbatore North", "Coimbatore South", "Kinathukadavu", "Madukkarai", "Mettupalayam", "Perur", "Pollachi", "Sulur", "Valparai"]},
+        {"district": "Cuddalore", "talukas": ["Bhuvanagiri", "Chidambaram", "Cuddalore", "Kattumannarkoil", "Kurinjipadi", "Panruti", "Srimushnam", "Thittakudi", "Veppur", "Virudhachalam"]},
+        {"district": "Dharmapuri", "talukas": ["Dharmapuri", "Harur", "Karimangalam", "Nallampalli", "Palacode", "Pappireddipatti", "Pennagaram"]},
+        {"district": "Dindigul", "talukas": ["Athoor", "Dindigul East", "Dindigul West", "Guziliamparai", "Kodaikanal", "Natham", "Nilakottai", "Oddanchatram", "Palani", "Vedasandur"]},
+        {"district": "Erode", "talukas": ["Anthiyur", "Bhavani", "Erode", "Gobichettipalayam", "Kodumudi", "Modakurichi", "Nambiyur", "Perundurai", "Sathyamangalam", "Thalavadi"]},
+        {"district": "Kallakurichi", "talukas": ["Chinnaselam", "Kallakurichi", "Kalvarayan Hills", "Sankarapuram", "Tirukoilur", "Ulundurpet"]},
+        {"district": "Kancheepuram", "talukas": ["Kancheepuram", "Kundrathur", "Sriperumbudur", "Uthiramerur", "Walajabad"]},
+        {"district": "Kanyakumari", "talukas": ["Agasteeswaram", "Kalkulam", "Killiyoor", "Thiruvattar", "Thovalai", "Vilavancode"]},
+        {"district": "Karur", "talukas": ["Aravakurichi", "Kadavur", "Karur", "Krishnarayapuram", "Kulithalai", "Manmangalam", "Pugalur"]},
+        {"district": "Krishnagiri", "talukas": ["Anchetti", "Bargur", "Denkanikottai", "Hosur", "Krishnagiri", "Pochampalli", "Sulagiri", "Uthangarai"]},
+        {"district": "Madurai", "talukas": ["Kalligudi", "Madurai East", "Madurai North", "Madurai South", "Madurai West", "Melur", "Peraiyur", "Thirumangalam", "Thirupparankundram", "Usilampatti", "Vadipatti"]},
+        {"district": "Nagapattinam", "talukas": ["Kilvelur", "Nagapattinam", "Thirukkuvalai", "Vedaranyam"]},
+        {"district": "Namakkal", "talukas": ["Kollimalai", "Kumarapalayam", "Mohanur", "Namakkal", "Paramathi-Velur", "Rasipuram", "Senthamangalam", "Tiruchengode"]},
+        {"district": "Nilgiris", "talukas": ["Coonoor", "Gudalur", "Kotagiri", "Kundah", "Pandalur", "Udhagamandalam"]},
+        {"district": "Perambalur", "talukas": ["Alathur", "Kunnam", "Perambalur", "Veppanthattai"]},
+        {"district": "Pudukkottai", "talukas": ["Alangudi", "Aranthangi", "Avudaiyarkoil", "Gandarvakottai", "Iluppur", "Karambakkudi", "Kulathur", "Manamelkudi", "Pudukkottai", "Ponnamaravati", "Thirumayam", "Viralimalai"]},
+        {"district": "Ramanathapuram", "talukas": ["Kadaladi", "Kamuthi", "Kezhakarai", "Mudukulathur", "Paramakudi", "Rajasingamangalam", "Ramanathapuram", "Rameswaram", "Tiruvadanai"]},
+        {"district": "Ranipet", "talukas": ["Arakkonam", "Arcot", "Kalavai", "Nemili", "Sholinghur", "Walajah"]},
+        {"district": "Salem", "talukas": ["Attur", "Edappadi", "Gangavalli", "Kadaiyampatti", "Mettur", "Omalur", "Pethanaickenpalayam", "Salem", "Salem South", "Salem West", "Sankari", "Vazhapadi", "Yercaud"]},
+        {"district": "Sivaganga", "talukas": ["Devakottai", "Ilayangudi", "Kalayarkoil", "Karaikudi", "Manamadurai", "S. Pudur", "Sivaganga", "Singampunari", "Tirupathur", "Tiruppuvanam"]},
+        {"district": "Tenkasi", "talukas": ["Alangulam", "Kadayanallur", "Sankarankovil", "Shenkottai", "Sivagiri", "Tenkasi", "Tiruvengadam", "Veerakeralampudur"]},
+        {"district": "Thanjavur", "talukas": ["Budalur", "Kumbakonam", "Orathanadu", "Papanasam", "Pattukkottai", "Peravurani", "Thanjavur", "Thiruvaiyaru", "Thiruvidaimarudur"]},
+        {"district": "Theni", "talukas": ["Andipatti", "Bodinayakanur", "Periyakulam", "Theni", "Uthamapalayam"]},
+        {"district": "Thoothukudi (Tuticorin)", "talukas": ["Eral", "Ettayapuram", "Kayathar", "Kovilpatti", "Ottapidaram", "Sathankulam", "Srivaikuntam", "Thoothukudi", "Tiruchendur", "Vilathikulam"]},
+        {"district": "Tiruchirappalli", "talukas": ["Lalgudi", "Manachanallur", "Manapparai", "Marungapuri", "Musiri", "Srirangam", "Thiruverumbur", "Thottiyam", "Tiruchirappalli West", "Tiruchirappalli East", "Thuraiyur"]},
+        {"district": "Tirunelveli", "talukas": ["Ambasamudram", "Cheranmahadevi", "Manur", "Nanguneri", "Palayamkottai", "Radhapuram", "Tirunelveli", "Tisayanvilai"]},
+        {"district": "Tirupathur", "talukas": ["Ambur", "Natrampalli", "Tirupathur", "Vaniyambadi"]},
+        {"district": "Tiruppur", "talukas": ["Avinashi", "Dharapuram", "Kangeyam", "Madathukulam", "Palladam", "Tiruppur North", "Tiruppur South", "Udumalaipettai"]},
+        {"district": "Tiruvallur", "talukas": ["Avadi", "Gummidipoondi", "Pallipattu", "Poonamallee", "Ponneri", "R.K. Pet", "Tiruttani", "Tiruvallur", "Uthukkottai"]},
+        {"district": "Tiruvannamalai", "talukas": ["Arni", "Chengam", "Chetpet", "Jamunamarathur", "Kalasapakkam", "Kilpennathur", "Polur", "Thandarampattu", "Tiruvannamalai", "Vandavasi", "Vembakkam"]},
+        {"district": "Tiruvarur", "talukas": ["Kodavasal", "Koothanallur", "Mannargudi", "Nannilam", "Needamangalam", "Thiruthuraipoondi", "Tiruvarur", "Valangaiman"]},
+        {"district": "Vellore", "talukas": ["Anaicut", "Gudiyatham", "K. V. Kuppam", "Katpadi", "Pernambut", "Vellore"]},
+        {"district": "Viluppuram", "talukas": ["Gingee", "Kandachipuram", "Marakkanam", "Melmalaiyanur", "Tindivanam", "Vanur", "Vikravandi", "Viluppuram"]},
+        {"district": "Virudhunagar", "talukas": ["Aruppukkottai", "Kariyapatti", "Rajapalayam", "Sattur", "Sivakasi", "Srivilliputhur", "Tiruchuli", "Virudhunagar", "Vathirairuppu"]}
+      ]
+    },
+    {
+      "state": "Telangana",
+      "districts": [
+        {"district": "Adilabad", "talukas": []},
+        {"district": "Bhadradri Kothagudem", "talukas": []},
+        {"district": "Hyderabad", "talukas": []},
+        {"district": "Jagtial", "talukas": []},
+        {"district": "Jangaon", "talukas": []},
+        {"district": "Jayashankar Bhupalpally", "talukas": []},
+        {"district": "Jogulamba Gadwal", "talukas": []},
+        {"district": "Kamareddy", "talukas": []},
+        {"district": "Karimnagar", "talukas": []},
+        {"district": "Khammam", "talukas": []},
+        {"district": "Komaram Bheem", "talukas": []},
+        {"district": "Mahabubabad", "talukas": []},
+        {"district": "Mahbubnagar", "talukas": []},
+        {"district": "Mancherial", "talukas": []},
+        {"district": "Medak", "talukas": []},
+        {"district": "Medchal-Malkajgiri", "talukas": []},
+        {"district": "Nagarkurnool", "talukas": []},
+        {"district": "Nalgonda", "talukas": []},
+        {"district": "Nirmal", "talukas": []},
+        {"district": "Nizamabad", "talukas": []},
+        {"district": "Peddapalli", "talukas": []},
+        {"district": "Rajanna Sircilla", "talukas": []},
+        {"district": "Rangareddy", "talukas": []},
+        {"district": "Sangareddy", "talukas": []},
+        {"district": "Siddipet", "talukas": []},
+        {"district": "Suryapet", "talukas": []},
+        {"district": "Vikarabad", "talukas": []},
+        {"district": "Wanaparthy", "talukas": []},
+        {"district": "Warangal (Rural)", "talukas": []},
+        {"district": "Warangal (Urban)", "talukas": []},
+        {"district": "Yadadri Bhuvanagiri", "talukas": []}
+      ]
+    },
+    {
+      "state": "Tripura",
+      "districts": [
+        {"district": "Dhalai", "talukas": []},
+        {"district": "Gomati", "talukas": []},
+        {"district": "Khowai", "talukas": []},
+        {"district": "North Tripura", "talukas": []},
+        {"district": "Sepahijala", "talukas": []},
+        {"district": "South Tripura", "talukas": []},
+        {"district": "Unakoti", "talukas": []},
+        {"district": "West Tripura", "talukas": []}
+      ]
+    },
+    {
+      "state": "Uttar Pradesh",
+      "districts": [
+        {"district": "Agra", "talukas": ["Agra", "Bah", "Etmadpur", "Fatehabad", "Kheragarh", "Kiraoli"]},
+        {"district": "Aligarh", "talukas": ["Aligarh", "Atrauli", "Gabhana", "Iglas", "Khair", "Koil"]},
+        {"district": "Allahabad", "talukas": ["Allahabad", "Bara", "Handia", "Karchhana", "Koraon", "Meja", "Phulpur", "Soraon"]},
+        {"district": "Ambedkar Nagar", "talukas": ["Akbarpur", "Allapur", "Bhiti", "Jalalpur", "Tanda"]},
+        {"district": "Amethi (Chatrapati Sahuji Mahraj Nagar)", "talukas": ["Amethi", "Gauriganj", "Musafirkhana", "Salon", "Tiloi"]},
+        {"district": "Amroha (J.P. Nagar)", "talukas": ["Amroha", "Dhanaura", "Hasanpur", "Naugawan Sadat"]},
+        {"district": "Auraiya", "talukas": ["Auraiya", "Bidhuna"]},
+        {"district": "Azamgarh", "talukas": ["Azamgarh", "Burhanpur", "Lalganj", "Mehnagar", "Nizamabad", "Phulpur", "Sagri"]},
+        {"district": "Baghpat", "talukas": ["Baghpat", "Baraut", "Khekra"]},
+        {"district": "Bahraich", "talukas": ["Bahraich", "Kaiserganj", "Mahasi", "Nanpara"]},
+        {"district": "Ballia", "talukas": ["Bansdih", "Ballia", "Bairia", "Rasra", "Sikanderpur"]},
+        {"district": "Balrampur", "talukas": ["Balrampur", "Tulsipur", "Utraula"]},
+        {"district": "Banda", "talukas": ["Atarra", "Baberu", "Banda", "Naraini"]},
+        {"district": "Barabanki", "talukas": ["Fatehpur", "Haidergarh", "Nawabganj", "Ramnagar", "Ramsanehighat", "Sirauli Gauspur"]},
+        {"district": "Bareilly", "talukas": ["Aonla", "Baheri", "Bareilly", "Faridpur", "Meerganj", "Nawabganj"]},
+        {"district": "Basti", "talukas": ["Basti", "Bhanpur", "Harraiya", "Rudhauli"]},
+        {"district": "Bhadohi", "talukas": ["Bhadohi", "Gyanpur", "Aurai"]},
+        {"district": "Bijnor", "talukas": ["Bijnor", "Chandpur", "Dhampur", "Nagina", "Najibabad"]},
+        {"district": "Budaun", "talukas": ["Bilsi", "Bisauli", "Budaun", "Dataganj", "Gunnaur", "Sahaswan"]},
+        {"district": "Bulandshahr", "talukas": ["Anupshahr", "Bulandshahr", "Debai", "Khurja", "Siana", "Sikandrabad", "Shikarpur"]},
+        {"district": "Chandauli", "talukas": ["Chakia", "Chandauli", "Sakaldiha"]},
+        {"district": "Chitrakoot", "talukas": ["Karwi", "Mau"]},
+        {"district": "Deoria", "talukas": ["Barhaj", "Bhatpar Rani", "Deoria", "Rudrapur", "Salempur"]},
+        {"district": "Etah", "talukas": ["Aliganj", "Etah", "Jalesar", "Kasganj", "Patiyali", "Sakit"]},
+        {"district": "Etawah", "talukas": ["Bharthana", "Chakarnagar", "Etawah", "Jaswantnagar", "Saifai"]},
+        {"district": "Faizabad", "talukas": ["Bikapur", "Faizabad", "Milkipur", "Rudauli", "Sohawal"]},
+        {"district": "Farrukhabad", "talukas": ["Amritpur", "Farrukhabad", "Kaimganj"]},
+        {"district": "Fatehpur", "talukas": ["Bindki", "Fatehpur", "Khaga"]},
+        {"district": "Firozabad", "talukas": ["Firozabad", "Jasrana", "Shikohabad", "Tundla"]},
+        {"district": "Gautam Buddha Nagar", "talukas": ["Dadri", "Gautam Buddha Nagar", "Jewar"]},
+        {"district": "Ghaziabad", "talukas": ["Ghaziabad", "Hapur", "Loni", "Modinagar"]},
+        {"district": "Ghazipur", "talukas": ["Ghazipur", "Jakhanian", "Mohammadabad", "Saidpur", "Zamania"]},
+        {"district": "Gonda", "talukas": ["Colonelganj", "Gonda", "Mankapur", "Tarabganj"]},
+        {"district": "Gorakhpur", "talukas": ["Bansgaon", "Campierganj", "Chauri Chaura", "Gola", "Gorakhpur", "Khajni", "Sahjanwa"]},
+        {"district": "Hamirpur", "talukas": ["Hamirpur", "Maudaha", "Rath", "Sarila"]},
+        {"district": "Hapur (Panchsheel Nagar)", "talukas": ["Garhmukteshwar", "Hapur", "Dhaulana"]},
+        {"district": "Hardoi", "talukas": ["Bilgram", "Hardoi", "Sandila", "Shahabad", "Sawayajpur"]},
+        {"district": "Hathras (Mahamaya Nagar)", "talukas": ["Hathras", "Sadabad", "Sasni", "Sikandra Rao"]},
+        {"district": "Jalaun", "talukas": ["Jalaun", "Kalpi", "Konch", "Madhogarh", "Orai"]},
+        {"district": "Jaunpur", "talukas": ["Badlapur", "Jaunpur", "Kerakat", "Machhlishahr", "Mariahu", "Shahganj"]},
+        {"district": "Jhansi", "talukas": ["Garautha", "Jhansi", "Mauranipur", "Moth", "Tahrauli"]},
+        {"district": "Kannauj", "talukas": ["Chhibramau", "Kannauj", "Tirwa"]},
+        {"district": "Kanpur Dehat", "talukas": ["Akbarpur", "Bhognipur", "Derapur", "Rasulabad", "Sikandra"]},
+        {"district": "Kanpur Nagar", "talukas": ["Bilhaur", "Ghatampur", "Kanpur", "Sadar"]},
+        {"district": "Kasganj (Kanshiram Nagar)", "talukas": ["Kasganj", "Patiyali", "Sahawar"]},
+        {"district": "Kaushambi", "talukas": ["Chail", "Manjhanpur", "Sirathu"]},
+        {"district": "Kheri", "talukas": ["Gola Gokarannath", "Lakhimpur", "Mohammadi", "Nighasan", "Palia"]},
+        {"district": "Kushinagar (Padrauna)", "talukas": ["Hata", "Kasia", "Padrauna", "Tamkuhi Raj"]},
+        {"district": "Lalitpur", "talukas": ["Lalitpur", "Mahroni", "Talbehat"]},
+        {"district": "Lucknow", "talukas": ["Bakshi Ka Talab", "Lucknow", "Malihabad", "Mohanlalganj", "Sarojini Nagar"]},
+        {"district": "Maharajganj", "talukas": ["Maharajganj", "Nautanwa", "Nichlaul", "Paniyara", "Pharenda"]},
+        {"district": "Mahoba", "talukas": ["Charkhari", "Kulpahar", "Mahoba"]},
+        {"district": "Mainpuri", "talukas": ["Bhongaon", "Karhal", "Mainpuri", "Kuraoli"]},
+        {"district": "Mathura", "talukas": ["Chhata", "Mahavan", "Mant", "Mathura"]},
+        {"district": "Mau", "talukas": ["Ghosi", "Madhuban", "Mau", "Muhammadabad-Gohna"]},
+        {"district": "Meerut", "talukas": ["Mawana", "Meerut", "Sardhana"]},
+        {"district": "Mirzapur", "talukas": ["Chunar", "Lalganj", "Marihan", "Mirzapur"]},
+        {"district": "Moradabad", "talukas": ["Bilari", "Kanth", "Moradabad", "Sambhal", "Thakurdwara"]},
+        {"district": "Muzaffarnagar", "talukas": ["Budhana", "Jansath", "Kairana", "Muzaffarnagar", "Shamli"]},
+        {"district": "Pilibhit", "talukas": ["Bisalpur", "Pilibhit", "Puranpur"]},
+        {"district": "Pratapgarh", "talukas": ["Kunda", "Lalganj", "Patti", "Pratapgarh", "Raniganj"]},
+        {"district": "Rae Bareli", "talukas": ["Dalmau", "Lalganj", "Maharajganj", "Rae Bareli", "Salon", "Unchahar"]},
+        {"district": "Rampur", "talukas": ["Bilaspur", "Milak", "Rampur", "Shahabad", "Suar", "Tanda"]},
+        {"district": "Saharanpur", "talukas": ["Behat", "Deoband", "Nakur", "Rampur Maniharan", "Saharanpur"]},
+        {"district": "Sambhal (Bhim Nagar)", "talukas": ["Chandausi", "Gunnaur", "Sambhal"]},
+        {"district": "Sant Kabir Nagar", "talukas": ["Ghanghata", "Khalilabad", "Mehdawal"]},
+        {"district": "Shahjahanpur", "talukas": ["Jalalabad", "Powayan", "Shahjahanpur", "Tilhar"]},
+        {"district": "Shamli", "talukas": ["Kairana", "Shamli", "Un"]},
+        {"district": "Shravasti", "talukas": ["Bhinga", "Ikauna", "Payagpur"]},
+        {"district": "Siddharthnagar", "talukas": ["Bansi", "Domariyaganj", "Itwa", "Naugarh", "Shohratgarh"]},
+        {"district": "Sitapur", "talukas": ["Biswan", "Laharpur", "Mahmudabad", "Misrikh", "Sidhauli", "Sitapur"]},
+        {"district": "Sonbhadra", "talukas": ["Dudhi", "Ghorawal", "Robertsganj"]},
+        {"district": "Sultanpur", "talukas": ["Amethi", "Gauriganj", "Jaisinghpur", "Kadipur", "Lambhua", "Musafirkhana", "Sultanpur"]},
+        {"district": "Unnao", "talukas": ["Bighapur", "Hasanganj", "Purwa", "Safipur", "Unnao"]},
+        {"district": "Varanasi", "talukas": ["Pindra", "Raja Talab", "Varanasi"]}
+      ]
+    },
+    {
+      "state": "Uttarakhand",
+      "districts": [
+        {"district": "Almora", "talukas": []},
+        {"district": "Bageshwar", "talukas": []},
+        {"district": "Chamoli", "talukas": []},
+        {"district": "Champawat", "talukas": []},
+        {"district": "Dehradun", "talukas": []},
+        {"district": "Haridwar", "talukas": []},
+        {"district": "Nainital", "talukas": []},
+        {"district": "Pauri Garhwal", "talukas": []},
+        {"district": "Pithoragarh", "talukas": []},
+        {"district": "Rudraprayag", "talukas": []},
+        {"district": "Tehri Garhwal", "talukas": []},
+        {"district": "Udham Singh Nagar", "talukas": []},
+        {"district": "Uttarkashi", "talukas": []}
+      ]
+    },
+    {
+      "state": "West Bengal",
+      "districts": [
+        {"district": "Alipurduar", "talukas": []},
+        {"district": "Bankura", "talukas": []},
+        {"district": "Birbhum", "talukas": []},
+        {"district": "Cooch Behar", "talukas": []},
+        {"district": "Dakshin Dinajpur (South Dinajpur)", "talukas": []},
+        {"district": "Darjeeling", "talukas": []},
+        {"district": "Hooghly", "talukas": []},
+        {"district": "Howrah", "talukas": []},
+        {"district": "Jalpaiguri", "talukas": []},
+        {"district": "Jhargram", "talukas": []},
+        {"district": "Kalimpong", "talukas": []},
+        {"district": "Kolkata", "talukas": []},
+        {"district": "Malda", "talukas": []},
+        {"district": "Murshidabad", "talukas": []},
+        {"district": "Nadia", "talukas": []},
+        {"district": "North 24 Parganas", "talukas": []},
+        {"district": "Paschim Bardhaman (West Bardhaman)", "talukas": []},
+        {"district": "Paschim Medinipur (West Medinipur)", "talukas": []},
+        {"district": "Purba Bardhaman (East Bardhaman)", "talukas": []},
+        {"district": "Purba Medinipur (East Medinipur)", "talukas": []},
+        {"district": "Purulia", "talukas": []},
+        {"district": "South 24 Parganas", "talukas": []},
+        {"district": "Uttar Dinajpur (North Dinajpur)", "talukas": []}
+      ]
+    }
+  ]
+}
